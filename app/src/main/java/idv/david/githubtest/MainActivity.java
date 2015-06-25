@@ -9,7 +9,7 @@ import android.view.MenuItem;
 public class MainActivity extends ActionBarActivity {
 
     // Test 1
-    //Modify by Steve at 06/25/2015 10:39
+
 
 
     @Override
