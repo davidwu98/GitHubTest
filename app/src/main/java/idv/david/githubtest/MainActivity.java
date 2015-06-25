@@ -8,7 +8,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
 
-    //Clark like hot girls.
+    // Test 1
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
